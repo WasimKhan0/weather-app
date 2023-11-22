@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "roboto";
+}
+.head {
+  background: rgba(0, 0, 0, 0.49);
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.12);
+}
+.hero {
+  background: radial-gradient(50% 50% at 50% 50%, #e0e8f1 0%, #bfcad6 100%);
+}
+.hr {
+  margin: auto;
+  width: 1127px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.2);
+}
+.box {
+  border-radius: 7px;
+  background: linear-gradient(180deg, #464646 0%, #1d2540 100%);
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.hrBox {
+  width: 151.933px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.2);
+}
